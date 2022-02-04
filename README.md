@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Frontend developer @NadinMiro
+- 👋 Hi, I’m  Frontend developer @NadinMiro (Nadezhda Mironova)
 - 👀 I have completed courses in frontend development (PASV school, courses on the UDEMY platform: web developer, Javascript+ React) . 
 - 🌱 I am currently looking for a job as a Frontend/JavaScript Developer.
 - 📫 How to reach me - nadin22e@gmail.com 
